@@ -1,0 +1,1 @@
+ALTER TABLE public.prize_config ADD COLUMN IF NOT EXISTS spin_mode text NOT NULL DEFAULT 'por_nota' CHECK (spin_mode IN ('por_nota','por_valor'));
