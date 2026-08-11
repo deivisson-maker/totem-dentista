@@ -448,7 +448,7 @@ export const ICON_META: Record<
     emoji: "🪥",
     label: "Escova",
     color: "text-sky-100",
-    bg: "linear-gradient(135deg, oklch(0.7 0.15 230), oklch(0.5 0.18 240))",
+    bg: "linear-gradient(135deg, #98FF98, #00C9A7)",
   },
   bone2: {
     emoji: <HardHat className="h-[1em] w-[1em]" strokeWidth={2.25} />,
