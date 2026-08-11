@@ -483,8 +483,8 @@ export const ICON_META: Record<
   estrela: {
     emoji: <Star className="h-[1em] w-[1em]" strokeWidth={2.25} fill="currentColor" />,
     label: "Estrela",
-    color: "text-slate-300",
-    bg: "linear-gradient(135deg, #FFFACD, #FFD700)",
+    color: "text-slate-400",
+    bg: "linear-gradient(135deg, #C0C0C0, #E8E8E8)",
   },
   diamante: {
     emoji: <Gem className="h-[1em] w-[1em]" strokeWidth={2.25} />,
